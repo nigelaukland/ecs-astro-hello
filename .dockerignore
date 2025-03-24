@@ -1,0 +1,4 @@
+# https://docs.astro.build/en/recipes/docker/
+.DS_Store
+node_modules
+dist
